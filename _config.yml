@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://mosbiusdesigns.github.io"
-baseurl: "/mosbiusdesigns.github.io"
+baseurl: "/web"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://mosbiusdesigns.github.io/mosbiusdesigns.github.io/gallery/"  
-  - JOURNAL: "https://mosbiusdesigns.github.io/mosbiusdesigns.github.io/journal/"
-  - ABOUT: "https://mosbiusdesigns.github.io/mosbiusdesigns.github.io/about/"
+  - GALLERY: "https://mosbiusdesigns.github.io/web/gallery/"  
+  - JOURNAL: "https://mosbiusdesigns.github.io/web/journal/"
+  - ABOUT: "https://mosbiusdesigns.github.io/web/about/"
 
 # All translation keys
 translations:
