@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - HOME: ""https://mosbiusdesigns.github.io/web/"
+  - HOME: "https://mosbiusdesigns.github.io/web/"
   - GALLERY: "https://mosbiusdesigns.github.io/web/gallery/"  
   - JOURNAL: "https://mosbiusdesigns.github.io/web/journal/"
   - ABOUT: "https://mosbiusdesigns.github.io/web/about/"
